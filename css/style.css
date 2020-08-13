@@ -1,0 +1,325 @@
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+.arrow{
+	font-size: 130%!important;
+}
+.margintop{
+	margin-top: 9%;
+}
+.marginbottom{
+	margin-bottom: 9%;
+}
+.page{
+	margin: 0 auto;
+	width: 90%;
+}
+
+.navcol{
+	background-color: #E9E9E9;
+	border-color: #E9E9E9;
+}
+.menu{
+	float: right;
+}
+.bg{
+	background-color: #E9E9E9;
+	margin-top: 3%;
+}
+.we{
+	color:#1D1D1D;
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma;
+	font-size: 269%;
+}
+.wep{
+	color: #787878;
+	font-family: NunitoSans-Regular,AdobeInvisFont,Tahoma;
+	font-size: 115%;
+}
+.wet{
+	margin-bottom: 7%;
+}
+.btcol{
+	background-color: #10C9C3;
+	border-radius: 0%;
+	margin-bottom: 20%;
+}
+.atag{
+	color: #FFFFFF;
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma;
+}
+.laptop{
+	width: 117%;
+	opacity: 0.8;
+}
+.headtext{
+	margin-top: 9%;
+    margin-left: 10%;
+}
+.about{
+	color: #191919;
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma;
+	text-align: center;
+	margin-bottom: 4%;
+}
+.aboutp{
+	color: #787878;
+	font-family: WorkSans-Regular,NunitoSans-Regular,AdobeInvisFont,Tahoma;
+	text-align: center;
+	margin-bottom: 6%;
+}
+.page1{
+	margin: 0 auto;
+	width: 61%;
+}
+.sign{
+	margin-left: 40%;
+}
+.prog{
+	background-color: #F8F9F9;
+}
+.animated-progress {
+  width: 100%;
+  height: 4px;
+  border-radius: 5px;
+  margin: 20px 10px;
+  background-color: #E9E9E9;
+  overflow: hidden;
+  position: relative;
+}
+
+.animated-progress span {
+  height: 100%;
+  display: block;
+  width: 0;
+  position: absolute;
+  padding-right: 5px;
+}
+
+.progresscolor span {
+  background-color: #10C9C3;
+}
+.pencil{
+	width: 100%;
+    margin-left: 37%;
+}
+.penhead{
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma,MyriadPro-Regular;
+	color: #171717;
+	margin-top: 26%;
+	margin-bottom: 5%;
+	margin-left: 2%;
+}
+.pentext{
+	color: #000000;
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma,MyriadPro-Regular;
+	margin-left: 2%;
+}
+.green{
+	background-color: #10C9C3;
+}
+.containsize{
+	width: 86%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.size{
+	width: 89%;
+	margin-top: 37%;
+    margin-bottom: 37%;
+}
+.sizetext{
+	color: #FFFFFF;
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma,MyriadPro-Regular;
+}
+.icone{
+	width: 10%;
+    margin-left: 12%;
+
+}
+.iconn{
+	width: 10%;
+}
+.iconcontain{
+	margin-top: 5%;
+    margin-bottom: 5%;
+}
+.multiple{
+	width: 100%;
+}
+.first{
+	margin-left: -14%;
+	width: 116%;
+}
+.rest{
+	margin-left: -7.5%;
+	width: 116%;
+}
+.pro{
+	background-color: #F5F5F5;
+}
+.foot{
+	background-color: #141414;
+}
+.foothead{
+	color: #FFFFFF;
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma;
+	text-decoration: none;
+}
+.footlinks{
+	color: #BCBCBC;
+	font-family: NunitoSans-Regular,AdobeInvisFont,Tahoma;
+	display: block;
+	text-decoration: none!important;
+}
+.form{
+	border: none;
+	text-indent: 2%;
+	width: 45%;
+	padding: 1%;
+	text-align: center;
+}
+.title{
+	width: 95.4%;
+	border: none;
+	text-indent: 1%;
+	padding: 1%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
+}
+.comment{
+	width: 95.4%;
+	border: none;
+	text-indent: 1%;
+	margin-bottom: 2%;
+	height: 150px;
+	text-align: center;
+}
+.contactbtn{
+	margin-left: 40%;
+}
+.out{
+	color:#FFFFFF;
+	font-family: Montserrat-Medium,AdobeInvisFont,Tahoma;
+	font-size: 150%;
+	text-align: center;
+}
+
+.mic{
+	margin-top: 9%;
+}
+.ser{
+	width: 20%;
+}
+.serv{
+	width: 100%;
+}
+.be{
+	font-family: NunitoSans-Regular,AdobeInvisFont,Tahoma,MyriadPro-Regular;
+	color:#787878;
+}
+.four{
+	margin-top: 5%;
+}
+.padtopp{
+	padding-top: 5%;
+}
+.padbott{
+	padding-bottom: 5%;
+}
+@media only screen and (max-width: 600px){
+	.bg1{
+		margin-top: 14%;	
+	}
+	.sign1{
+		margin-left: 0%;
+	}
+	.pencil1{
+		margin-left: 0%;
+		margin-top: 15%;
+	}
+	.size1{
+		margin-left: 30%;
+    	width: 29%;
+    	margin-top: 37%;
+    	margin-bottom: 0%;
+	}
+	.project{
+		margin-left: 30%;
+	}
+	.icon1{
+		margin-left: 10%;
+	}
+	.resting{
+		margin-left: -8%;
+	}
+	.over{
+	  position: absolute;
+	  top: 0;
+	  bottom: 0;
+	  left: 0!important;
+	  right: 0;
+	  height: 100%;
+	  width: 100%;
+	  opacity: 0;
+	  transition: .3s ease;
+	  background-color: black;
+	}
+	.video{
+	  width: 162%;
+      margin-left: -30%;
+      height: 0%;
+	}
+	.style{
+		display: inline-block;
+	}
+	.width{
+		width: 96.4%;
+	}
+	.michael{
+		margin-top: 24%;
+	}
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -4%;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+  background-color: black;
+}
+
+/* When you mouse over the container, fade in the overlay icon*/
+.con:hover .overlay {
+  opacity: 0.5;
+}
+
+/* The icon inside the overlay is positioned in the middle vertically and horizontally */
+.icon {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.fa{
+	color: white;
+    margin-top: 43%;
+    margin-left: 42%;
+    font-size: 288%;
+}
+/* When you move the mouse over the icon, change color */
+.fa-eye:hover {
+  color: #FFFFFF;
+}
